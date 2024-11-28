@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](assets/certs/Incident_response.png)
+![Octocat](assets/certs/Incident_response.png) ![Arch](assets/certs/cybersecurity-architecture.png)
 
 ## Certs
 
