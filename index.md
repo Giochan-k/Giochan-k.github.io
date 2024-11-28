@@ -2,7 +2,7 @@
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[My LinkedIn](www.linkedin.com/in/giochan-kararai-095535250).
 
 There should be whitespace between paragraphs.
 
