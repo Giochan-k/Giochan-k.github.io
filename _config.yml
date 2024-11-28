@@ -3,6 +3,4 @@ logo: /assets/img/logo.png
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-links: 
-[LinkedIn] (https://www.linkedin.com/in/giochan-kararai-095535250/)
 theme: jekyll-theme-minimal
