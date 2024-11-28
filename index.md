@@ -1,121 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity Analyst Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Cybersecurity Analyst Student</h1>
+            <p>Passionate about safeguarding digital assets and exploring advanced cybersecurity solutions.</p>
+        </div>
+    </header>
 
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+    <main>
+        <section id="about" class="section">
+            <h2>About Me</h2>
+            <p>I am a dedicated cybersecurity student with a strong interest in penetration testing, threat analysis, and incident response. Currently pursuing a degree in computer science, I aim to contribute to a safer digital world.</p>
+        </section>
 
-[My LinkedIn](www.linkedin.com/in/giochan-kararai-095535250).
+        <section id="skills" class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Penetration Testing</li>
+                <li>Network Security</li>
+                <li>Incident Response</li>
+                <li>Python and Bash Scripting</li>
+            </ul>
+        </section>
 
-There should be whitespace between paragraphs.
+        <section id="projects" class="section">
+            <h2>Projects</h2>
+            <ul>
+                <li>Developed a custom firewall for enhanced network security.</li>
+                <li>Conducted vulnerability assessments on web applications.</li>
+                <li>Automated log analysis using Python.</li>
+            </ul>
+        </section>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+        <section id="contact" class="section">
+            <h2>Contact</h2>
+            <p>Feel free to reach out to me for opportunities or collaborations.</p>
+            <a href="mailto:student@cybersecurity.com" class="btn">Email Me</a>
+        </section>
+    </main>
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+    <footer>
+        <p>&copy; 2024 Cybersecurity Analyst Student. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
