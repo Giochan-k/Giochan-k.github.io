@@ -99,7 +99,7 @@ end
 ## Certs
 
 [IBM Cybersecurity Analyst](assets/certs/IBM.pdf)
-
+[Cybersecurity Essentials](assets/certs/CS_essentials.pdf)
 
 ### Definition lists can be used with HTML syntax.
 
