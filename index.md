@@ -1,158 +1,123 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cybersecurity Analyst Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <h1>Cybersecurity Analyst Student</h1>
-            <p>Passionate about safeguarding digital assets and exploring advanced cybersecurity solutions.</p>
-        </div>
-    </header>
+---
+layout: default
+---
 
-    <nav>
-        <ul>
-            <li><a href="#about">About Me</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-    <main>
-        <section id="about" class="section">
-            <h2>About Me</h2>
-            <p>I am a dedicated cybersecurity student with a strong interest in penetration testing, threat analysis, and incident response. Currently pursuing a degree in computer science, I aim to contribute to a safer digital world.</p>
-        </section>
+[Link to another page](./another-page.html).
 
-        <section id="skills" class="section">
-            <h2>Skills</h2>
-            <ul>
-                <li>Penetration Testing</li>
-                <li>Network Security</li>
-                <li>Incident Response</li>
-                <li>Python and Bash Scripting</li>
-            </ul>
-        </section>
+There should be whitespace between paragraphs.
 
-        <section id="projects" class="section">
-            <h2>Projects</h2>
-            <ul>
-                <li>Developed a custom firewall for enhanced network security.</li>
-                <li>Conducted vulnerability assessments on web applications.</li>
-                <li>Automated log analysis using Python.</li>
-            </ul>
-        </section>
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-        <section id="contact" class="section">
-            <h2>Contact</h2>
-            <p>Feel free to reach out to me for opportunities or collaborations.</p>
-            <a href="mailto:student@cybersecurity.com" class="btn">Email Me</a>
-        </section>
-    </main>
+# Header 1
 
-    <footer>
-        <p>&copy; 2024 Cybersecurity Analyst Student. All Rights Reserved.</p>
-    </footer>
-</body>
-</html>
-/* styles.css */
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    color: #333;
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
 }
+```
 
-header {
-    background: #1a1a2e;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
-}
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 
-header h1 {
-    margin: 0;
-    font-size: 2.5rem;
-}
+#### Header 4
 
-header p {
-    font-size: 1.2rem;
-}
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
-nav {
-    background: #16213e;
-    padding: 10px 0;
-    text-align: center;
-}
+##### Header 5
 
-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-}
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
 
-nav ul li {
-    margin: 0 15px;
-}
+###### Header 6
 
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-    transition: color 0.3s;
-}
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
-nav ul li a:hover {
-    color: #ffa62b;
-}
+### There's a horizontal rule below this.
 
-.section {
-    padding: 20px;
-    max-width: 800px;
-    margin: 20px auto;
-    background: #f8f8f8;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-}
+* * *
 
-.section h2 {
-    color: #16213e;
-    margin-bottom: 10px;
-}
+### Here is an unordered list:
 
-.section ul {
-    list-style: square;
-    padding-left: 20px;
-}
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
 
-.section .btn {
-    display: inline-block;
-    background: #ffa62b;
-    color: #fff;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background 0.3s;
-}
+### And an ordered list:
 
-.section .btn:hover {
-    background: #e68a00;
-}
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
 
-footer {
-    text-align: center;
-    background: #1a1a2e;
-    color: #fff;
-    padding: 10px 0;
-    margin-top: 20px;
-    font-size: 0.9rem;
-}
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
