@@ -3,8 +3,8 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[My LinkedIn profile](https://www.linkedin.com/in/giochan-kararai-095535250/).
+## My Links 
+- [LinkedIn](https://www.linkedin.com/in/giochan-kararai-095535250/).
 
 There should be whitespace between paragraphs.
 
