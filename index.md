@@ -96,9 +96,10 @@ end
 
 ![Octocat](assets/certs/Incident_response.png)                ![Arch](assets/certs/cybersecurity-architecture.png)                 ![pen](assets/certs/pen_test.png)
 
-## Certs
-
+# Certificates
+##
 [IBM Cybersecurity Analyst](assets/certs/IBM.pdf)
+##
 [Cybersecurity Essentials](assets/certs/CS_essentials.pdf)
 
 ### Definition lists can be used with HTML syntax.
