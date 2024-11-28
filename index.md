@@ -98,7 +98,7 @@ end
 
 ## Certs
 
-[IBM Prof analyst cert](assets/certs/IBM)
+[IBM Prof analyst cert](assets/certs/IBM.pdf)
 
 
 ### Definition lists can be used with HTML syntax.
