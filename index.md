@@ -92,9 +92,9 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### Badges
 
-![Octocat](assets/certs/Incident_response.png) ![Arch](assets/certs/cybersecurity-architecture.png)
+![Octocat](assets/certs/Incident_response.png) ![Arch](assets/certs/cybersecurity-architecture.png) ![pen](assets/certs/pen_test.png)
 
 ## Certs
 
