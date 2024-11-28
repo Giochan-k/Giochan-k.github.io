@@ -96,9 +96,9 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+## Certs
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[IBM Prof analyst cert](/assets/certs/IBM)
 
 
 ### Definition lists can be used with HTML syntax.
