@@ -6,9 +6,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ## My Links 
 - [LinkedIn](https://www.linkedin.com/in/giochan-kararai-095535250/).
 
-There should be whitespace between paragraphs.
+# About me
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Hello! my name is Giochan, I am a computer science student with a career goal in cyber security. My curiosity on how systems work and finding ways to protect them drove me to this path! I know the basics on data protection and the security frameworks around them, and I am eager to learn more.
 
 # Header 1
 
