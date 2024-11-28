@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](assets/certs/incident_response.png)
+![Octocat](assets/certs/Incident_response.png)
 
 ## Certs
 
