@@ -94,11 +94,11 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](assets/certs/incident_response.png)
 
 ## Certs
 
-[IBM Prof analyst cert](assets/certs/IBM.pdf)
+[IBM Cybersecurity Analyst](assets/certs/IBM.pdf)
 
 
 ### Definition lists can be used with HTML syntax.
